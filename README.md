@@ -123,3 +123,11 @@ echo "MISTRAL_API_KEY=your-key" > .env
 - Activate the correct conda environment: `conda activate agents`
 
 ## 🎬 Demo Screenshots
+<img width="985" height="615" alt="image" src="https://github.com/user-attachments/assets/6b9eee30-8046-4098-a789-bf03f85e2f9d" />
+<img width="1049" height="577" alt="image" src="https://github.com/user-attachments/assets/5def3cd6-f5d5-41ee-9de9-1b7bab048c25" />
+<img width="1006" height="614" alt="image" src="https://github.com/user-attachments/assets/9e3bb065-6972-43ff-90cd-0077909e7112" />
+<img width="1046" height="618" alt="image" src="https://github.com/user-attachments/assets/08fd5edb-d59d-4ced-9c31-eba63ad4f08e" />
+<img width="1042" height="592" alt="image" src="https://github.com/user-attachments/assets/1ed64f78-7bbb-44fd-9f21-c24bd8892a4f" />
+<img width="1049" height="608" alt="image" src="https://github.com/user-attachments/assets/95ee1c38-aac2-4f7a-993d-6c5b9f501819" />
+
+
